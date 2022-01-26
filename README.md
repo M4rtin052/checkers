@@ -1,4 +1,5 @@
 # checkers
+Wykorzystana biblioteka: pygame
 
 Poruszanie pionków
 Zbijanie pionków
